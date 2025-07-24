@@ -8,19 +8,19 @@ A modern, responsive AI-powered chat application built with Streamlit and Groq A
 
 ##  Features
 
-- ** Real-time AI Chat**: Instant conversations with multiple AI models
-- ** Modern UI**: Sleek dark theme with red accents and smooth animations
-- ** Responsive Design**: Works seamlessly on desktop and mobile devices
-- ** Customizable Settings**: Adjust AI creativity, response length, and model selection
-- ** Export Functionality**: Download your chat history as text files
-- ** Fixed Input Area**: Chat input stays at the bottom while messages scroll
-- ** Live Statistics**: Real-time chat metrics and activity tracking
+-  Real-time AI Chat**: Instant conversations with multiple AI models
+-  Modern UI**: Sleek dark theme with red accents and smooth animations
+-  Responsive Design**: Works seamlessly on desktop and mobile devices
+-  Customizable Settings**: Adjust AI creativity, response length, and model selection
+-  Export Functionality**: Download your chat history as text files
+-  Fixed Input Area**: Chat input stays at the bottom while messages scroll
+-  Live Statistics**: Real-time chat metrics and activity tracking
 
-## 🚀 Live Demo
+##  Live Demo
 
 You can try the application live at: [Your Deployment URL Here]
 
-## 🛠 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -48,7 +48,7 @@ You can try the application live at: [Your Deployment URL Here]
   - `1000`: Balanced length (default)
   - `2000`: Detailed responses
 
-## 🎨 UI Components
+##  UI Components
 
 ### Main Features
 
@@ -64,7 +64,7 @@ You can try the application live at: [Your Deployment URL Here]
 - **Animations**: Smooth transitions and hover effects
 - **Responsive**: Mobile-friendly design
 
-## 🚀 Deployment
+##  Deployment
 
 ### Streamlit Cloud (Free)
 
@@ -82,7 +82,7 @@ You can try the application live at: [Your Deployment URL Here]
 
 5. **Deploy** and share your live app URL!
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 For production deployment, use environment variables:
 
@@ -95,7 +95,7 @@ Create a `.env` file (not committed to Git):
 GROQ_API_KEY=gsk_your_actual_api_key_here
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -108,7 +108,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Push to the branch: `git push origin feature-name`
 6. Submit a pull request
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Streamlit** - For the amazing web framework
 - **Groq** - For providing fast AI inference
@@ -116,7 +116,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - **Mistral AI** - For the Mixtral model
 - **Google** - For the Gemma model
 
-## 📞 Support
+##  Support
 
 If you encounter any issues or have questions:
 
