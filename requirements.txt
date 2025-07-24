@@ -1,0 +1,8 @@
+python-dotenv
+requests
+gradio
+groq
+openai
+streamlit
+loguru
+tqdm
